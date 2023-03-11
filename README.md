@@ -14,7 +14,8 @@ This repository contains my solutions to various problems on Leetcode.
 | 2)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/2)%20Add%20Two%20Numbers.c"> Add Two Numbers</a>    |     Medium   |       C        | 
 | 3)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/3)%20Median%20of%20Two%20Sorted%20Arrays.c"> Median Of Two Sorted Arrays  </a>  |     Hard    |    C        | 
 | 4)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/4)%20Reverse%20Integer.c"> Reverse Integer</a>    |     Medium   |       C        |
-| 4)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/5)%20ZigZag%20Conversion.py"> ZigZag Conversion</a>    |     Medium   |       Python       |
+| 5)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/5)%20ZigZag%20Conversion.py"> ZigZag Conversion</a>    |     Medium   |  Python       |
+| 6)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/5)%20ZigZag%20Conversion.py"> Pallindrome Number</a>    |     Easy   |  Python3       |
 
 
 # How To Contribute ?
