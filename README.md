@@ -5,6 +5,7 @@ This repository contains my solutions to various problems on Leetcode.
 
 1) Python
 2) C language
+3) C++
 
 # Table of Contents
 
@@ -12,10 +13,11 @@ This repository contains my solutions to various problems on Leetcode.
 | :---         |      :---:     |     :---:              |       :---:   |
 | 1)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/1)%20Two%20Sum.py"> Two Sum</a> |  Medium       |       Python   |
 | 2)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/2)%20Add%20Two%20Numbers.c"> Add Two Numbers</a>    |     Medium   |       C        | 
-| 3)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/3)%20Median%20of%20Two%20Sorted%20Arrays.c"> Median Of Two Sorted Arrays  </a>  |     Hard    |    C        | 
+| 3)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/3)%20Median%20of%20Two%20Sorted%20Arrays.c">Median Of Two Sorted Arrays </a> |Hard|C    | 
 | 4)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/4)%20Reverse%20Integer.c"> Reverse Integer</a>    |     Medium   |       C        |
 | 5)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/5)%20ZigZag%20Conversion.py"> ZigZag Conversion</a>    |     Medium   |  Python       |
 | 6)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/6)%20Pallindrome%20Number.py"> Pallindrome Number</a>    |     Easy   |  Python3       |
+| 7)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/7)%20Regular%20Expression%20Matching.cpp"> RegEx Matching</a>    |  Hard   |  C++    |
 
 
 # How To Contribute ?
