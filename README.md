@@ -18,7 +18,7 @@ This repository contains my solutions to various problems on Leetcode.
 | 5)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/5)%20ZigZag%20Conversion.py"> ZigZag Conversion</a>    |     Medium   |  Python       |
 | 6)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/6)%20Pallindrome%20Number.py"> Pallindrome Number</a>    |     Easy   |  Python3       |
 | 7)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/7)%20Regular%20Expression%20Matching.cpp"> RegEx Matching</a>    |  Hard   |  C++    |
-| 8)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/7)%20Regular%20Expression%20Matching.cpp"> Container with most water</a>|Medium|Python  |
+| 8)   | <a href="https://github.com/vanshsehgal08/LeetCode-Solutions/blob/main/8)%20Container%20with%20most%20water.py"> Container with most water</a>|Medium|Python  |
 
 
 
